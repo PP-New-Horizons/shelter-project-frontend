@@ -24,4 +24,4 @@ This project forms part of my intership in [Pineapple Practice](https://pnpl.sit
 - Public presentation of the project
 
 
-[**LIVE VERSION**](: https://lapki.zagirnur.dev/)
+[LIVE VERSION](: https://lapki.zagirnur.dev/)
