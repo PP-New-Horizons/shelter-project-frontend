@@ -5,25 +5,23 @@ This project forms part of my intership in [Pineapple Practice](https://pnpl.sit
 
 **SKILLS USED**
 - HTML
-- SASS
-- VANILLA JAVASCRIPT
+- Vanilla Javascript
 -----------------------------------------------------
 
 **HARD SKILLS LEARNT DURING INTERNSHIP**
 - SASS
-- API & INTERGRATION WITH BACKEND
-- CONNECTING TO BACKEND DATABASE FOR LOCAL TESTING USING: MAVEN, PGADMIN
-- IMPLEMENTING FILTERS ON A CATALOG
-- IMPLEMENTING PAGINATION
-- IMPLEMENTING JAVASCRIIPT LIBARARY GLIDE.JS FOR IMAGES CAROUSEL
-- FOLLOWING FIGMA DESIGN PROVIDED BY UX/UI DESIGNER
+- API & integration with backend
+- connecting to backend database for local testing using: maven, pgadmin
+- implementing filters on a catalog
+- implementing pagination
+- implementing javascript library glide.js for images carousel
+- following figma design provided by UX/UI designer
 -----------------------------------------------------
 
 **SOFT SKILLS LEARNT DURING INTERNSHIP**
-- WORKING IN A TEAM OF DIFFERENT SPECIALISTS (BACKEND, UX/UI DESIGNER, DATA ANALIST, PROJECT MANAGER, QA)
-- WORKING IN TWO-WEEKS SPRINTS AND ACHIEVING SPRINT GOALS USING CLICK-UP MANAGEMENT APP
-- PUBLIC PRESENTATION OF THE PROJECT
+- working in a team of different specialists (backend, UX/UI designer, data analyst, project manager, QA)
+- working in two-week sprints and achieving sprint goals using click-up management app
+- public presentation of the project
 
 
-
-**LIVE VERSION**: https://lapki.zagirnur.dev/
+[**LIVE VERSION**](: https://lapki.zagirnur.dev/)
